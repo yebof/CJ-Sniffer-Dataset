@@ -1,1 +1,1 @@
-# CJ-Sniffer-Dataset
+# Packet-Level Cryptomining Network Traffic Dataset
